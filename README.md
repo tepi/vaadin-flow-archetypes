@@ -29,7 +29,7 @@ mvn org.apache.maven.plugins:maven-archetype-plugin:2.4:generate  \
 ```
 
 
-## Plain servlet
+## Spring version
     
 Create project with following command:
 
